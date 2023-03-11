@@ -1,0 +1,2 @@
+project_name,price,start_date,due_date,client,description,label,lead,status
+test_import,45000,2021-03-09,2021-04-12,8,Test Demo,4,2,on_going

@@ -1,0 +1,1 @@
+<?php return ['title'=>'Laravel Installer','next'=>'Next Step','back'=>'Previous','finish'=>'Install','forms'=>['errorTitle'=>'The Following errors occurred:',],'welcome'=>['templateTitle'=>'Welcome','title'=>'Laravel Installer','message'=>'Easy Installation and Setup Wizard.','next'=>'Check Requirements',],'requirements'=>['templateTitle'=>'Step 1 | Server Requirements',],];

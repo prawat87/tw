@@ -1,0 +1,4 @@
+Name,email,messenger_color,type,lang,delete_status,is_active,Created At,Updated At
+Tayrol,tayrol@example.com,#2359ee,client,en,1,1,2020-06-08T04:11:37.000000Z,2021-10-14T10:31:12.000000Z
+Lewis,lewis@example.com,#2359ee,client,en,1,1,2020-06-08T04:12:07.000000Z,2020-06-08T04:12:34.000000Z
+prital,prital@gmail.com,#2359ee,client,en,1,1,2021-12-06T06:59:01.000000Z,2021-12-06T06:59:01.000000Z
